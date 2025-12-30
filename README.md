@@ -23,7 +23,7 @@ Exploratory analysis revealed clear and consistent demand patterns:
 The following visualization highlights the impact of rush hours on bike rental demand and motivates the inclusion of temporal features in the model.
 
 ### Impact of Rush Hour on Bike Rentals
-![Impact of Rush Hour on Bike Rentals](images/rush_hour_impact.png)
+![Impact of Rush Hour on Bike Rentals](image/rush_hour_impact.png)
 
 ---
 
@@ -53,7 +53,7 @@ Model performance was evaluated using:
 The following plot compares actual bike rental counts with predictions from the Random Forest model. Each point represents a single observation, and the diagonal line indicates perfect prediction. The close alignment of points to this reference line demonstrates strong predictive performance across low and high demand levels.
 
 ### Actual vs Predicted Bike Rentals (Random Forest)
-![Actual vs Predicted Bike Rentals (Random Forest)](images/actual_vs_predicted_rf.png)
+![Actual vs Predicted Bike Rentals](image/actual_vs_predicted_rf.png)
 
 ---
 
